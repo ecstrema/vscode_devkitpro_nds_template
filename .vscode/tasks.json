@@ -36,7 +36,7 @@
             "isBackground": true,
             "command": "/usr/games/desmume", // or desmume-glade??
             "args": [
-                "${workspaceFolder}/rotator.nds"
+                "${workspaceFolder}/${workspaceFolderBasename}.nds"
             ],
             "problemMatcher": [],
             "group": {
