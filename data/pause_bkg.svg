@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.6mm"
+   height="19.200001mm"
+   viewBox="0 0 25.6 19.200001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="mainmenu_bkg.svg"
+   inkscape:export-filename="pause_bkg.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="6.7277217"
+     inkscape:cx="44.963215"
+     inkscape:cy="20.586464"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-1.1957708 : 8.6545073 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="24.404229 : 8.6545073 : 1"
+       inkscape:persp3d-origin="11.604229 : 5.4545071 : 1"
+       id="perspective406" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ababab;stroke:#ffffff;stroke-width:0.178415;stroke-opacity:0.854902;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect371"
+       width="17.60523"
+       height="4.8903418"
+       x="3.9973855"
+       y="3.8491845"
+       ry="0.74116385" />
+    <rect
+       style="fill:#ababab;stroke:#ffffff;stroke-width:0.13829;stroke-opacity:0.854902;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect371-6"
+       width="11.173825"
+       height="3.5268424"
+       x="7.2130876"
+       y="11.844036"
+       ry="0.5744803" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Ravie;-inkscape-font-specification:'Ravie, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0875956"
+       x="5.446794"
+       y="7.3244381"
+       id="text586"><tspan
+         sodipodi:role="line"
+         id="tspan584"
+         x="5.446794"
+         y="7.3244381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ravie;-inkscape-font-specification:'Ravie, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0875956">Resume</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:Ravie;-inkscape-font-specification:'Ravie, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0875956"
+       x="9.2242556"
+       y="14.401464"
+       id="text586-6"><tspan
+         sodipodi:role="line"
+         id="tspan584-7"
+         x="9.2242556"
+         y="14.401464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:Ravie;-inkscape-font-specification:'Ravie, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0875956">Quit</tspan></text>
+  </g>
+</svg>
